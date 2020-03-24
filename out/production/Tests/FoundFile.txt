@@ -1,0 +1,4 @@
+1 Apple 100 10
+2 Orange 200 30
+3 Berry 250 40
+4 Banana 70 10

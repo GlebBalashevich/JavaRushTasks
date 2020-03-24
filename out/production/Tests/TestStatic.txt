@@ -1,0 +1,6 @@
+Hello world
+I'm love Java
+I want to be a billioner
+
+CodeTests:\JavaRushTasks\Tests\src\allLines.txt
+CodeTests:\JavaRushTasks\Tests\src\forRemoveLines.txt

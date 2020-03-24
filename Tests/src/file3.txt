@@ -1,0 +1,2 @@
+o be language-independent, and it can rely upon separate, dynamically-linked localized resources. 
+This allows the flexibility of adding localizations for new localizations at any time.

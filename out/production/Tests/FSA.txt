@@ -1,0 +1,2 @@
+Provides classes and interfaces for handling text, dates, numbers, and messages in a manner independent of natural languages. 
+This means your main application or applet can be written t
